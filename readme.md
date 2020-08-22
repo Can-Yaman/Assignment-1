@@ -1,0 +1,1 @@
+This folder contains the solutions for basic Python exercises.
